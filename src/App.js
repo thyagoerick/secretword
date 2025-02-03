@@ -45,7 +45,6 @@ function App() {
     console.log(word);
 
     return [word, category]
-     
   }, [words])
 
   // starts the secret word game
